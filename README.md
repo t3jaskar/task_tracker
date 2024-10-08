@@ -22,3 +22,6 @@ This project is designed to help you practice your programming skills, including
 1. Clone the repository:
    ```bash
    git clone https://github.com/t3jaskar/task_tracker-beginner-.git
+2.Navigate to the project directory:
+   ```bash
+   cd task_tracker-beginner 
