@@ -24,4 +24,11 @@ This project is designed to help you practice your programming skills, including
    git clone https://github.com/t3jaskar/task_tracker-beginner-.git
 2.Navigate to the project directory:
    ```bash
-   cd task_tracker-beginner 
+   cd task_tracker-beginner
+   ```
+3.Create a .env file in the project root to store your MongoDB connection string. Refer to the ex_env file for the format:
+4.To run the project
+   ```bash
+      npm install
+      node index.js
+   ```
